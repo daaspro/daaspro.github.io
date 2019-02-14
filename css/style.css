@@ -35,13 +35,13 @@ a:active {
 	font-size: 0.9em;
 }
 
-h1,h2{ 
+h2{ 
 	font-weight:700;
 	line-height:1.1em;
 	color:#333;
 	margin-bottom: 20px;
 }
-h3, h4, h5, h6 { 
+h1, h3, h4, h5, h6 { 
 	line-height:1.1em;
 	color:#333;
 	margin-bottom: 20px;
